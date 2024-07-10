@@ -14,10 +14,7 @@ E-shop is an online shopping platform designed to provide a seamless shopping ex
 - [Contact](#contact)
 
 ## Tech Stack
--React JS
--TailWind Css
--Redux
--React Router
+React JS ,TailWind Css ,Redux , React Router
 
 ## Installation
 
